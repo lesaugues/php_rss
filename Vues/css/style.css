@@ -1,0 +1,55 @@
+.jumbotron
+{
+    margin-top: -20px;
+    padding-bottom: 20px;
+}
+
+.news
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    font-size: medium;
+}
+
+.btn
+{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#navi
+{
+
+    font-size: large;
+    text-align: center;
+    position: relative;
+    left: 37%;
+    width: 270px;
+    border-radius: 20px;
+}
+
+.navi-item
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.btn-suppr
+{
+    position: relative;
+    top: -50px;
+}
+
+.input-conn
+{
+    width: 50px;
+}
+
+.container
+{
+    border-radius: 20px;
+}
